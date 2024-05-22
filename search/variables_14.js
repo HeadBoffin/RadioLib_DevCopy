@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['xtal_1040',['XTAL',['../class_s_x126x.html#ada0fe6c3d31885952b439135cf0c18f1',1,'SX126x']]]
+  ['width_1196',['width',['../struct_s_s_t_v_mode__t.html#ad8d4e7efb12eb0e0cfa850aeb7353e40',1,'SSTVMode_t']]],
+  ['widths_1197',['widths',['../struct_module_1_1_s_p_i_config__t.html#a8cd88af331563749f10ac69b63e1755a',1,'Module::SPIConfig_t']]]
 ];
